@@ -1,0 +1,5 @@
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Utils\bin\Debug\LangModeler.Utils.dll
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Utils\bin\Debug\LangModeler.Utils.pdb
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Utils\obj\Debug\LangModeler.Utils.csprojResolveAssemblyReference.cache
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Utils\obj\Debug\LangModeler.Utils.dll
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Utils\obj\Debug\LangModeler.Utils.pdb

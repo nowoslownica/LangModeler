@@ -1,0 +1,14 @@
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\LangModeler.Common.dll.config
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\LangModeler.Common.dll
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\LangModeler.Common.pdb
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\EntityFramework.dll
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\System.Data.SQLite.dll
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\EntityFramework.xml
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\bin\Release\System.Data.SQLite.xml
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\obj\Release\LangModeler.Common.csprojResolveAssemblyReference.cache
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\obj\Release\LangModeler.Common.dll
+C:\Users\Егор\Documents\GitHub\LangModeler\trunk\LangModeler.Common\obj\Release\LangModeler.Common.pdb

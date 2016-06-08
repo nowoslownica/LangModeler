@@ -8,7 +8,7 @@ namespace Common
         Polish = 3 // Polish language.
     };
 
-    enum Cases
+    enum Case
     {
         Nominative = 0,
         Genitive = 1,
@@ -29,7 +29,7 @@ namespace Common
         Neutral = 3
     }
 
-    enum PartsOfSpeech
+    enum PartOfSpeech
     {
         Noun = 0,
         Adjective = 1,
@@ -37,5 +37,21 @@ namespace Common
         Adverb = 3,
         Verb = 4,
         Preposition = 5
+    }
+
+    enum Person
+    {
+        Unknown = 0,
+        First = 1,
+        Second = 2,
+        Third = 3,
+    }
+
+    enum Number
+    {
+        Unknown = 0,
+        Singular = 1,
+        Dual = 2,
+        Plural = 3,
     }
 }
